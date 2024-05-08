@@ -1,0 +1,8 @@
+:root {
+    --background-color: #000;
+    --primary-color: #fff; 
+    --secondary-color: #6c757d;
+    --primary-font-family: 'poppins', sans-serif; 
+    --secondary-font-family: 'manrope', sans-serif; 
+    --base-font-size: 16px; 
+}

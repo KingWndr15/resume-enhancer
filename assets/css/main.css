@@ -1,0 +1,31 @@
+@import 'utility.css';
+@import 'root.css';
+@import 'font.css';
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--primary-color);
+}
+
+/* custom-scrollbar.css */
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background-color: #000000;
+}
+  
+::-webkit-scrollbar-thumb {
+    background-color: #88888853;
+    border-radius: 5px;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background-color: #55555551;
+}  
